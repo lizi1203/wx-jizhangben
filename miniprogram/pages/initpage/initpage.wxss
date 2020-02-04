@@ -1,0 +1,26 @@
+.addbutton{
+  width: 100%;
+  padding: 50rpx 0rpx;
+  position: fixed;
+  bottom:30rpx;
+  left: 0;
+}
+
+.circle{
+width:  80rpx;
+height: 80rpx;
+background-color: #3e8e41;
+border-radius: 500px;
+border: 0 solid #ffffff;
+box-shadow: 4px 1px 1px #cccccc;
+color: white;
+font-size: 40rpx;
+}
+
+.circle:hover {background-color: #3e8e41}
+
+.circle:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

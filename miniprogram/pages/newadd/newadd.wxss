@@ -1,0 +1,83 @@
+input{
+height:100rpx;
+margin:10rpx;
+background: white;
+}
+
+.inputnumber{
+display: flex;
+flex-direction: row;
+}
+
+.output{
+margin-left: 100rpx;
+margin-top: 30rpx;
+}
+
+.yuan{
+margin-top: 30rpx; 
+}
+
+.btngroup1{
+display:flex;
+flex-direction: row;
+}
+
+.btngroup2{
+display:flex;
+flex-direction: row;
+}
+
+.btngroup3{
+display:flex;
+flex-direction: row;
+}
+
+.btngroup4{
+display:flex;
+flex-direction: row;
+}
+
+.btn-item1{
+border-radius: 500rpx;
+border: 2px solid #3aa2f7;
+margin-top: 100rpx;
+}
+
+.btn-item2{
+border-radius: 500rpx;
+border: 2px solid#e7eb2e;
+margin-top: 20rpx;
+}
+
+.btn-item3{
+border-radius: 500rpx;
+border: 2px solid #c086f0;
+margin-top: 20rpx;
+}
+
+.btn-item4{
+border-radius: 500rpx;
+border: 2px solid#f16c4b;
+margin-top: 20rpx;
+}
+
+.btn-item1:hover {
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+background-color: #3aa2f7;
+}
+
+.btn-item2:hover {
+ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ background-color: #e7eb2e;
+}
+
+.btn-item3:hover {
+ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ background-color: #c086f0;
+}
+
+.btn-item4:hover {
+ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ background-color: #f16c4b;
+}

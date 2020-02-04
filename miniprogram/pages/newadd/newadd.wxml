@@ -1,0 +1,47 @@
+<view class="inputnumber">
+<view class="output">
+支出
+</view>
+
+<input
+value="0"
+type="digit"
+></input>
+
+<view class="yuan">
+元
+</view>
+</view>
+
+<view class="outputclasschoose">
+<view class="outputclass">
+输出类型
+</view>
+</view>
+
+<view class="outputclass">
+<view class="btngroup1">
+<button class="btn-item1">吃喝</button>
+<button class="btn-item1">话费</button>
+<button class="btn-item1">交通</button>
+</view>
+
+<view class="btngroup2">
+<button class="btn-item2">医疗</button>
+<button class="btn-item2">水电</button>
+<button class="btn-item2">房租</button>
+</view>
+
+<view class="btngroup3">
+<button class="btn-item3">学习</button>
+<button class="btn-item3">礼金</button>
+<button class="btn-item3">旅游</button>
+</view>
+
+<view class="btngroup4">
+<button class="btn-item4">购物</button>
+<button class="btn-item4">娱乐</button>
+<button class="btn-item4">日用品</button>
+</view>
+</view>
+

@@ -1,0 +1,7 @@
+<!-- 新增 button -->
+ <view class="addbutton">
+ <button
+ class="circle"
+ bindtap="goToNewAddPage"
+ >+</button>
+</view>
